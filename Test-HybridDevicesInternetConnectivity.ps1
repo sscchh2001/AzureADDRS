@@ -10,6 +10,8 @@
     https://enterpriseregistration.partner.microsoftonline.cn
 .AUTHOR:
     Mohammad Zmaili
+.MODIFIER:
+    Steve Shi
 .EXAMPLE
     .\Test-DeviceRegConnectivity
     
